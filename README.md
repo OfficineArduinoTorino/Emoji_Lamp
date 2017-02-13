@@ -70,6 +70,5 @@ If you want to reset some parameters of the lamp press and hold the white button
 Hardware :
 
 * Olimex ESP8266-EVB ([Documentation here](https://www.olimex.com/Products/IoT/ESP8266-EVB/open-source-hardware))
-* Neopixel rgb ws2812 (28 leds long)
-* Neopixel rgb ws2812 (18 leds long)
+* Neopixel rgb ws2812 x2
 * Pushbutton x4
